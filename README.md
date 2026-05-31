@@ -14,4 +14,4 @@ This project presents an interactive E-Commerce Sales Analysis Dashboard built u
 - Growth %
 
 ## Dashboard Preview
-![Dashboard](images/Ecommerce.png)
+![Sales Dashboard](dashboard.png)
