@@ -13,5 +13,4 @@ This project presents an interactive E-Commerce Sales Analysis Dashboard built u
 - Previous Month Sales
 - Growth %
 
-## Dashboard Preview
-![Sales Dashboard](dashboard.png)
+![image alt](https://github.com/Lalchand26/Ecommerce-Sales-Analysis-in-PowerBi-/blob/main/ecommerce.png?raw=true)
