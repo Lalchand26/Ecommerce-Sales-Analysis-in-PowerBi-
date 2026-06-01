@@ -4,8 +4,6 @@ This project presents an interactive E-Commerce Sales Analysis Dashboard built u
 
 ## Tools Used
 - Power BI
-- MySQL
-- Excel
 
 ## KPIs
 - Total Sales
