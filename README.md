@@ -14,8 +14,3 @@ This project presents an interactive E-Commerce Sales Analysis Dashboard built u
 - Growth %
 
 ![image alt](https://github.com/Lalchand26/Ecommerce-Sales-Analysis-in-PowerBi-/blob/main/ecommerce.png?raw=true)
-## Ecommerce Sales Dashboard
-
-![Dashboard](./Ecommerce/dashboard sales analysis.png)
-
-📁 Project Folder: [Open Project](./Ecommerce)
